@@ -1,0 +1,23 @@
+@font-face {
+    font-family: apercu;
+    src: url(/fonts/apercu_regular_pro.otf);
+}
+
+@font-face {
+    font-family: apercu;
+    font-style: italic;
+    src: url(/fonts/apercu_regular_italic_pro.otf);
+}
+
+@font-face {
+    font-family: apercu;
+    font-weight: bold;
+    src: url(/fonts/apercu_bold_pro.otf);
+}
+
+@font-face {
+    font-family: apercu;
+    font-weight: bold;
+    font-style: italic;
+    src: url(/fonts/apercu_bold_italic_pro.otf);
+}
